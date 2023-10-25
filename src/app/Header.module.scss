@@ -1,0 +1,16 @@
+.header {
+  align-items: center;
+  border-bottom: 1px #ccccccfb solid;
+  display: flex;
+  justify-content: space-around;
+}
+
+.nav {
+  .new_link {
+    background: #efb41e;
+    border-radius: 8px;
+    color: #333;
+    font-size: 14px;
+    padding: 10px;
+  }
+}
